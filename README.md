@@ -1,2 +1,3 @@
 # kvzdev_gh
-fist repository
+My fist repository/
+Here is the project to Skillfactory. It's name Crosszero.
